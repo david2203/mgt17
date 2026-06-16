@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-sand-50 text-clay-700 antialiased;
+}
+
+/* Tydlig fokusmarkering för tangentbordsnavigering (tillgänglighet). */
+:focus-visible {
+  outline: 3px solid theme("colors.forest.600");
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Hoppa-till-innehåll-länk */
+.skip-link {
+  @apply absolute left-2 top-2 z-50 -translate-y-20 rounded bg-forest-600 px-4 py-2 text-white transition focus:translate-y-0;
+}

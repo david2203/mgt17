@@ -1,0 +1,83 @@
+{
+  "title": "Att leda en arbetsrunda",
+  "intro": "En av deltagarna i gruppen tar på sig att leda arbetsrundan. Detta kan vara samma man som har tagit på sig att hålla i hela mötet, men det kan även vara en frivillig man för arbetsrundan i fråga, eller en person som har utsetts av mötets ledare.",
+  "blocks": [
+    {
+      "type": "list",
+      "title": "Aktörer i en arbetsrunda",
+      "items": [
+        "Arbetsrundans ledare (håller i hela ronden)",
+        "Tidshållare",
+        "Facilitator – väljs av mannen som arbetar (MA)",
+        "MA (mannen som arbetar)"
+      ]
+    },
+    { "type": "heading", "text": "Inne i arbetsrundan" },
+    {
+      "type": "paragraph",
+      "text": "Arbetsrundans utsedda ledare ska följa strukturen nedan och anteckna. Samtliga deltagare i rummet svarar i tur och ordning på fyra frågor:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "\"Om jag skulle arbeta ikväll skulle jag arbeta med …\" (KORT beskrivning, några ord, t.ex. \"en situation på arbetsplatsen\" eller \"min ilska gentemot världen\") – eller \"Pass\".",
+        "Angelägenhetsgrad på en skala från 1–5 (där 1 är \"låg\" och 5 är \"hög\", dvs. jag måste prata om detta NU!).",
+        "Tid som mannen som arbetar har till sitt förfogande.",
+        "Välj en process i Processväljaren (om deltagaren inte kommer på någon kan hen be om råd, eller bestämma sig när det är hans tur)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "När alla i rummet har uttalat sig enligt ovan summerar ledaren tiden och anpassar den till den tillgängliga tiden för arbetsrundan, samt bestämmer ordningen utifrån angelägenhetsgraden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Om det finns flera med samma angelägenhetsgrad bestäms ordningen utifrån hur lång tid de önskar (längst tid börjar). Om det finns flera med samma angelägenhet och tid bestäms ordningen utifrån ordningen i rundan, t.ex. den som började berätta (eller någon annan egen lösning …)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Om en eller flera väljer att passa, dvs. stå över arbetsrundan, ska ledaren påminna om att den eller de som passar ska ges möjlighet att ta upp något om det skulle dyka upp under arbetsrundans gång – om det finns tid till det."
+    },
+    { "type": "heading", "text": "Tidshållaren" },
+    {
+      "type": "paragraph",
+      "text": "Tidshållaren anmäler sig. Tidshållaren informeras om den tillgängliga tiden innan varje mans process (som kan justeras av arbetsrundans ledare utifrån de faktiska omständigheterna). Tidshållaren flaggar när det är två minuter kvar (eller på annat sätt som MA bestämmer) och när tiden är slut."
+    },
+    { "type": "heading", "text": "Processen" },
+    {
+      "type": "paragraph",
+      "text": "Ledaren ger ordet till den förste mannen i den bestämda ordningen (med högst angelägenhetsgrad) och frågar:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Vem vill du ska facilitera dig?",
+        "Vilken process vill du använda? (Kan lämnas öppet än så länge.)",
+        "Är den facilitator som har valts beredd att facilitera? (\"Ja\", eller också väljer MA en annan facilitator.)",
+        "Facilitatorn frågar mannen som arbetar hur han vill använda tiden, t.ex. \"av mina 15 minuter vill jag processa i tio minuter och ha återkoppling från alla i fem minuter\".",
+        "Om det inte redan har bestämts ska processen väljas nu, eller när MA har berättat mer om det han vill jobba med.",
+        "MA jobbar med facilitatorn tills tiden och/eller processen tar slut."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ledaren ger sedan ordet till den andre mannen (näst högst angelägenhetsgrad) på tur och upprepar ovanstående tills samtliga män som vill arbeta har arbetat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ledaren frågar om de män som har sagt \"Pass\" vill ha tid (hur begränsad den än må vara)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Efter en arbetsrunda lämnar ledaren över ledarskapet (t.ex. om han är ledare för kvällens möte men inte utsedd att hålla i checkouten), sedan inleds nästa del (Checkouten)."
+    },
+    {
+      "type": "list",
+      "title": "Stående principer",
+      "items": [
+        "Alla män som vill ska få arbeta.",
+        "Alla permanenta medlemmar i gruppen är tillgängliga som facilitatorer."
+      ]
+    }
+  ]
+}

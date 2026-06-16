@@ -1,0 +1,45 @@
+{
+  "nextMeetingDate": "2026-06-29",
+  "areas": [
+    {
+      "id": "logistik",
+      "name": "Logistik, överenskommelser",
+      "tid": "5 min",
+      "assignees": []
+    },
+    {
+      "id": "skapa-stamning",
+      "name": "Skapa stämning",
+      "tid": "5 min",
+      "assignees": []
+    },
+    {
+      "id": "check-in",
+      "name": "Check-in",
+      "tid": "18 min",
+      "assignees": []
+    },
+    {
+      "id": "ansvarighet-rensning",
+      "name": "Ansvarighet och rensning",
+      "tid": "10 min",
+      "assignees": []
+    },
+    {
+      "id": "check-out",
+      "name": "Check-out",
+      "tid": "15 min",
+      "assignees": []
+    },
+    {
+      "id": "avslutning",
+      "name": "Avslutning",
+      "tid": "3 min",
+      "assignees": [
+        "jakob",
+        "kristian"
+      ]
+    }
+  ],
+  "meetingLink": "https://meet.google.com/xnn-gwdt-jtd"
+}

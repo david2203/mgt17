@@ -1,0 +1,51 @@
+{
+  "title": "Mötesstruktur",
+  "intro": "Rundorna i ett virtuellt möte.\n\nStart: Avhandla allt praktiskt kring vem som leder, tider, lokal, ev. pauser, etc. Ledaren ansvarar för att ha koll på tiden och ser till att mötet avslutas komplett och i tid.",
+  "agreements": {
+    "title": "Överenskommelser",
+    "intro": "Behöver inte tas upp varje gång, men alla ska känna till dem.",
+    "items": [
+      "Konfidentialitet: Jag kan dela min egen upplevelse, men inte berätta något som en annan man sagt eller gjort, eller något som kan identifiera en annan man.",
+      "Eget ansvar: Det är min grupp och jag ansvarar för att få ut vad jag förväntar mig eller behöver. Jag frågar om jag undrar något.",
+      "Säkerhet: Jag har rätt att hoppa över något, eller stoppa det som pågår med hänsyn till säkerhet.",
+      "Icke-våld: Våld kan vara fysiskt, verbalt, emotionellt eller andligt. Jag erkänner att mina ord och handlingar påverkar de omkring mig. Jag tar ansvar för mina ord och handlingar.",
+      "Ingen rådgivning eller feedback: Jag är inte här för att ge råd. Om jag vill ha råd kommer jag att be om det specifikt. Jag ber om tillåtelse innan jag erbjuder någon annan feedback.",
+      "Inga droger: Jag kommer inte att närvara om jag är påverkad av alkohol eller andra droger. Om jag bryter mot detta kommer jag att berätta det och låta gruppen avgöra hur den vill hantera det så att gruppens trygghet kan bevaras.",
+      "Raggfritt: Detta är inte en plats för att söka kunder eller partners."
+    ]
+  },
+  "steps": [
+    {
+      "title": "Skapa stämning/rum",
+      "duration": "5–7 min",
+      "description": "Ledaren för kvällen formar kvällens intention med en grundande inledning. Detta kan vara vad som helst som skapar ett tryggt och heligt rum, t.ex. att läsa riktningarna, en visualisering, en meditation, trumning, en dikt, etc."
+    },
+    {
+      "title": "Skapa närvaro och kontakt – checka in",
+      "duration": "1–2 min/man",
+      "description": "– Namn och geografisk plats, känsla just nu, höjdpunkt/lågpunkt senaste veckan, eller tacksamhet för …\n– Avsluta med att se in i kameran och: \"Med det checkar jag in, hör mig!\""
+    },
+    {
+      "title": "Rensa hinder för närvaro",
+      "description": "(Se separata protokoll för Ansvarighet och Rensning – finns i Processväljaren.)",
+      "substeps": [
+        "Rapportera ev. töjning/stretch/utmaning, t.ex. räck upp en hand om den är gjord.",
+        "Ansvarighet/integritet: \"Har någon i denna grupp brutit en överenskommelse med denna grupp, eller en person utanför mötet, som hindrar dig från att vara närvarande här och nu?\" Om \"ja\", se protokollet Integritet och ansvarighet i Processväljaren. Om nej: \"Jag är klar\".",
+        "Stödjande ansvarighet: \"Vill du bjuda in en annan man att se möjligheten att han brutit ett avtal han gjort?\" Mannen kan förkasta påståendet eller acceptera det – se protokollet ovan. (Du kan inte hålla en annan man ansvarig; han äger sin ansvarighet.)",
+        "Rensning: \"Har någon man här en laddning med någon annan i gruppen, eller med en person utanför gruppen, som hindrar att du är helt närvarande?\" Se protokollet Rensning i Processväljaren."
+      ]
+    },
+    {
+      "title": "Övningar/processer/arbete (Arbetsrundan)",
+      "description": "\"Mitt arbete idag är … (utforska mitt motstånd att … / arbeta med känslan x kring … / om jag skulle ändra mitt liv ikväll skulle jag …) och känslan runt det är …\" Begär den tid du behöver. Sedan visar alla samtidigt angelägenhet 1–5 med fingrarna. Välj en facilitator och en process. (Se sidan \"Att leda en arbetsrunda\" och Processväljaren.)"
+    },
+    {
+      "title": "Se det som är stort i oss själva och andra – checka ut",
+      "description": "Se det som är stort i oss själva och andra: skicka stödjande tankar/välsignelser.\n– Namn, hedranden/välsignelser, känsla just nu, stretch/utmaning till nästa gång.\n– Se alla i \"ögonen\" och säg: \"Med det checkar jag ut, hör mig\"."
+    },
+    {
+      "title": "Avslutning",
+      "description": "Slut stämningen/rummet – \"släpp energierna fria\". Avhandla därefter allt praktiskt kring nästa möte, inkl. vem som leder."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[
+  { "id": "joakim", "name": "Joakim Sædén", "email": "joakim.saeden@gmail.com" },
+  { "id": "andreas", "name": "Andreas Damberg", "email": "andreas@lynxgym.se" },
+  { "id": "jakob", "name": "Jakob Stiernstedt", "email": "jakob.stiernstedt@gmail.com" },
+  { "id": "alexander", "name": "Alexander Nilsson", "email": "alexandernilsson20011@gmail.com" },
+  { "id": "david", "name": "David Saupe", "email": "david.saupe@gmail.com" },
+  { "id": "kristian", "name": "Kristian L", "email": "kristianlindquist@hotmail.com" },
+  { "id": "christian", "name": "Christian Andersson", "email": "chrristtian@gmail.com" },
+  { "id": "vladislav", "name": "Vladislav", "email": "kona36@hotmail.com" },
+  { "id": "felix", "name": "Felix Adamsson", "email": "felix.adamsson@gmail.com" },
+  { "id": "magnus", "name": "Magnus Årenäs", "email": "magnus.arenas@gmail.com" },
+  { "id": "grant", "name": "Grant R", "email": "" }
+]

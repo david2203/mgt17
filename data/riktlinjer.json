@@ -1,0 +1,181 @@
+{
+  "title": "Riktlinjer för MGT-fortsättningsgrupp",
+  "subtitle": "För män som avslutat den grundläggande träningen på åtta veckor",
+  "blocks": [
+    { "type": "heading", "text": "Inledning" },
+    {
+      "type": "paragraph",
+      "text": "Ni har nu avslutat åttaveckorsträningen. Som grupp har ni upplevt samma processer och lärt er samma verktyg. Ni bär med er en gemensam grund — och ni ser fram emot att ta detta arbete in i framtiden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Era ledare och handledare finns kvar som stöd. Men fortsättningsgruppen är er. Det är ni som äger den."
+    },
+    {
+      "type": "paragraph",
+      "text": "Här följer några grundläggande principer som vi starkt rekommenderar att ni håller er till, särskilt i början."
+    },
+
+    { "type": "heading", "text": "1. Facilitatorns roll" },
+    {
+      "type": "paragraph",
+      "text": "Vi lägger stor vikt vid facilitatorns roll i mansgrupper."
+    },
+    {
+      "type": "paragraph",
+      "text": "De processer vi har gett er är utformade för män som är i ett tidigt skede av detta arbete. Utgångspunkten är alltid densamma:"
+    },
+    { "type": "subheading", "text": "Allt som en man bär med sig är välkommet här." },
+    {
+      "type": "paragraph",
+      "text": "Män kommer ibland till en grupp som denna med förhoppningen att någon ska ge dem svar. Men våra grupper bygger på övertygelsen att det inom varje man finns en källa till visdom. Vår uppgift är inte att ge svar — utan att skapa utrymme där mannen kan hitta sitt eget svar."
+    },
+    { "type": "subheading", "text": "Håll er till manuset — i början" },
+    {
+      "type": "paragraph",
+      "text": "Vi ber er särskilt att i det tidiga skedet följa processernas manus så noga som möjligt, med så lite egen tolkning som möjligt. Det handlar inte om att vara rigid — det handlar om att skydda deltagarna och er själva medan ni fortfarande bygger ert förtroende som facilitatorer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Det är inte terapigrupper ni leder. Ni stöttar männen i att hitta sin egen visdom. Det är skillnaden."
+    },
+
+    { "type": "heading", "text": "2. Mötesstruktur — veckans ledare" },
+    {
+      "type": "paragraph",
+      "text": "Vi föreslår att en man i gruppen har det övergripande ansvaret för att mötet flödar."
+    },
+    {
+      "type": "list",
+      "title": "Veckans ledare ansvarar för",
+      "items": [
+        "Introduktion: välkomnande och mötets intention, syfte och innehåll.",
+        "*Strukturering av logistik.",
+        "Strukturering av gruppens överenskommelser.",
+        "Strukturering av \"Skapa stämning\".",
+        "Strukturering av incheckning.",
+        "Strukturering av \"Rensa hinder för närvaro\" (ansvarighet och rensning).",
+        "Arbetsrundan – övningar.",
+        "Arbetsrundan – om hemuppgift och lästips.",
+        "Strukturering av utcheckning.",
+        "Strukturering av avslutning.",
+        "Eventuell fri diskussionsstund."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*\"Strukturering\" kan här innebära ett övergripande ansvar för tidsramarna och helheten. Veckans deltagarpar ansvarar för dessa olika delmoment."
+    },
+    { "type": "subheading", "text": "Alla män i gruppen bör rotera som veckans ledare." },
+
+    { "type": "heading", "text": "3. Gruppens identitet — tillåt förändring" },
+    {
+      "type": "paragraph",
+      "text": "Ni utgår från det ursprungliga manuset. Men en grupp måste också hitta sin egen identitet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Det innebär att ni med tiden kommer att förändra saker. Ni kommer att se över materialet, utvärdera vad som fungerar och vad ni föredrar annorlunda."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vår rekommendation: Låt förändringsarbetet ske gradvis och medvetet. Gör förändringar tillsammans — inte ensidigt."
+    },
+
+    { "type": "heading", "text": "4. Gruppöverenskommelse" },
+    {
+      "type": "paragraph",
+      "text": "Vi föreslår att gruppen tidigt upprättar en tydlig överenskommelse. Den bör innehålla:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antal möten: Bestäm ett antal möten ni gemensamt förbinder er till — förslagsvis 6, 8, 10 eller 12 möten i taget."
+    },
+    {
+      "type": "paragraph",
+      "text": "Närvaro: Alla förbinder sig att närvara så regelbundet som möjligt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meddela gruppen så snart ni vet att ni inte kan komma. Livet sker — familj, arbete, kriser. Det är förståeligt. Men gruppen ska alltid informeras."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se över och justera: Gå igenom era överenskommelser tillsammans efter varje period. Justera dem om det behövs."
+    },
+
+    { "type": "heading", "text": "5. Avslut när en man lämnar gruppen" },
+    {
+      "type": "paragraph",
+      "text": "Detta är en regel vi starkt rekommenderar, även om den inte är obligatorisk."
+    },
+    {
+      "type": "paragraph",
+      "text": "När en man lämnar gruppen — oavsett anledning, flytt, sjukdom, livsbyte — ska han komma till ett möte och ta farväl."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gruppen ges då möjlighet att ge honom feedback om hans beslut och hans arbete i gruppen."
+    },
+    { "type": "subheading", "text": "Varför är detta viktigt?" },
+    {
+      "type": "paragraph",
+      "text": "Om ni inte har denna regel riskerar ni att människor slutar dyka upp utan att någon riktigt förstår varför. På sikt är detta mycket skadligt för tilliten i gruppen — både på kort och lång sikt."
+    },
+
+    { "type": "heading", "text": "6. Att ta in en ny man i gruppen" },
+    {
+      "type": "paragraph",
+      "text": "När gruppen vill ta in en ny man föreslår vi följande process:"
+    },
+    { "type": "subheading", "text": "Prövotid — 3 till 4 veckor" },
+    {
+      "type": "paragraph",
+      "text": "Den nye mannen deltar som gäst under tre till fyra veckor. Han får se hur gruppen arbetar i olika lägen och stämningar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under denna period har en mentor ansvar för honom — förslagsvis en man som redan känner honom, eller någon som är beredd att ta uppdraget."
+    },
+    {
+      "type": "list",
+      "title": "Mentorns ansvar",
+      "items": [
+        "Säkerställa att den nye mannen förstår gruppens regler.",
+        "Introducera honom för veckans ledare.",
+        "Stötta honom inför hans första möten."
+      ]
+    },
+    { "type": "subheading", "text": "Efter prövotiden" },
+    {
+      "type": "paragraph",
+      "text": "Ganska informellt men tydligt: stäm av. Är han beredd att förbinda sig till gruppen? Och är gruppen redo att välkomna honom fullt ut?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Det kan också hända att ni vill ge honom ytterligare några veckor innan han tar steget fullt ut. Det är helt i sin ordning."
+    },
+    { "type": "subheading", "text": "Den nye mannens första ledarskap" },
+    {
+      "type": "paragraph",
+      "text": "När prövotiden är avslutad och mannen är välkommen i gruppen — ge honom snart, t.ex. efter tre/fyra veckor, tillfälle att leda ett möte. Han har nu sett det gjort ett antal gånger. Det är ett viktigt steg i inkludering och bekräftelse."
+    },
+
+    { "type": "heading", "text": "7. Kommunikation och dokumentation" },
+    {
+      "type": "paragraph",
+      "text": "Veckans ledare ansvarar för att skicka ut relevant material — manus till alla processer samt manus för ledning av ett möte — inför mötet till gruppens medlemmar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Signalgrupp: Lägg frågor som uppstår i er signalgrupp. Gällande gruppledare/medledare ansvarar i första hand att besvara och hantera dem allteftersom — och era frågor hjälper oss också att förbättra gruppens samarbete."
+    },
+
+    { "type": "heading", "text": "8. FAQ — Vanliga frågor (under uppbyggnad)" },
+    {
+      "type": "paragraph",
+      "text": "Vi planerar att bygga upp ett avsnitt med vanliga frågor för er och framtida grupper att använda som referens. Era frågor till oss bidrar direkt till detta."
+    }
+  ],
+  "footer": "Dokument version 1.0 — maj 2026. Mike Holdstock / mansgrupp.org. Frågor och tillägg välkomnas via signalgruppen.\nJusterat av Felix, Grant & Magnus den 4 juni 2026."
+}
