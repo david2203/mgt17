@@ -49,12 +49,12 @@ export function getRiktlinjer(): Promise<InfoPage> {
 const RESP_KEY = "mansgrupp:responsibilities";
 
 function redis(): Redis | null {
-  if (
-    process.env.UPSTASH_REDIS_REST_URL &&
-    process.env.UPSTASH_REDIS_REST_TOKEN
-  ) {
-    return Redis.fromEnv();
-  }
+  // Stöd både Upstash-integrationens och Vercel KV:s variabelnamn.
+  const url =
+    process.env.UPSTASH_REDIS_REST_URL || process.env.KV_REST_API_URL;
+  const token =
+    process.env.UPSTASH_REDIS_REST_TOKEN || process.env.KV_REST_API_TOKEN;
+  if (url && token) return new Redis({ url, token });
   return null;
 }
 
