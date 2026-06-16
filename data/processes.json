@@ -5,34 +5,36 @@
     "syfte": "Förstå vad som hindrar honom att hålla sina avtal.",
     "anvandbarNar": "När ett brutet avtal, i någon form, ligger i botten till en vardagssituation/problem.",
     "kommentar": "Samma process som i Rensningsrundan, men nu finns tid att gå djupare med hans hindrande föreställning.",
-    "intention": "Att skapa en trygg grupp genom att rannsaka sin integritet/ansvarighet, återta den och sin ansvarighet inför sig själv. (Ansvarighet => gäller mina handlingar. Integritet => gäller moral, min inre kompass. Exempel: Jag kom för sent till mötet, så min ansvarighet gick sönder, men jag är sen eftersom jag gjorde konstgjord andning vid en bilolycka, så min integritet är hel.)\n\nSjälvansvarighet handlar inte om att be om ursäkt. Det handlar om att förstå vad ett brutet avtal betyder — både för andra och för dig själv. Frågorna att ställa sig: Vad blev effekten för den/de som påverkades? Och vilken övertygelse om mig själv styrde det beteende som ledde till brottet?",
+    "intention": "Att skapa en trygg grupp genom att rannsaka sin integritet/ansvarighet, återta den och sin ansvarighet inför sig själv. (Ansvarighet => gäller mina handlingar. Integritet => gäller moral, min inre kompass. Exempel: Jag kom för sent till mötet, så min ansvarighet gick sönder, men jag är sen eftersom jag gjorde konstgjord andning vid en bilolycka så min integritet är hel.)\n\nSjälvansvarighet handlar **inte** om att be om ursäkt. Det handlar om att förstå vad ett brutet avtal betyder — både för andra och för dig själv. Frågorna att ställa sig: Vad blev effekten för den/de som påverkades? Och vilken övertygelse om mig själv styrde det beteende som ledde till brottet?",
     "energi": "Stramt, direkt och kortfattat. Låt inte mannen göra utvikningar med långa förklaringar.",
     "tid": "Hela processen bör bli klar på 5 minuter. Detta är inte en arbetsrunda, men kan hjälpa till med att hitta saker att arbeta med.",
     "sections": [
       {
         "title": "Upplägg",
-        "intro": "Se de andra i ögonen. Har någon man här brutit en överenskommelse med någon i denna grupp eller med en person utanför gruppen som hindrar att han är helt närvarande, här och nu? Säg \"Jag är klar\" eller \"Jag har brutit en överenskommelse\".\n\nOm någon brutit en överenskommelse, facilitera honom genom denna process:",
+        "intro": "**Se de andra i ögonen. Har någon man här brutit en överenskommelse med någon i denna grupp eller med en person utanför gruppen som hindrar att han är helt närvarande, här och nu?** Säg \"**Jag är klar**\" eller \"**Jag har brutit en överenskommelse**\".\n\nOm någon brutit en överenskommelse, facilitera honom igenom denna process:",
+        "startNumber": 1,
         "steps": [
-          "**Vad var överenskommelsen/avtalet som du bröt?** (Kortfattad fakta, inga berättelser/förklaringar.) (\"Överenskommelsen var att…\") **Med vem?**",
+          "**Vad var överenskommelsen/avtalet som du bröt?** (kortfattad fakta, inga berättelser/förklaringar). (\"Överenskommelsen var att….\") Med vem?",
           "**Höll du överenskommelsen, ja eller nej?**",
-          "**Vad valde du att göra som var viktigare än att hålla överenskommelsen?** (Om han har svårt att se sitt val, följ upp med \"Vad var fördelen eller belöningen för dig som gjorde att du gjorde detta val?\". Be honom formulera det som något positivt, dvs. \"Jag valde att …\", istället för negativt \"Jag kunde inte …\".)",
+          "**Vad valde du att göra som var viktigare än att hålla överenskommelsen?** (Om han har svårt att se sitt val, följ upp med \"Vad var fördelen eller belöningen för dig som gjorde att du gjorde detta val?\" Be honom formulera det som något positivt, dvs. \"Jag valde att ....\" istället för negativt \"Jag kunde inte....\")",
           "**Vad är BUDSKAPET du ger dig själv genom att bryta överenskommelsen?**",
           "**Vad är BUDSKAPET du ger andra genom att bryta överenskommelsen?**",
           "**Vad är den möjliga PÅVERKAN av ditt beteende: på dig själv? På andra?**",
-          "**Vad kan vara en underliggande FÖRESTÄLLNING, det som du tror om dig själv, som förklarar detta beteende?** \"Vilken föreställning om dig själv eller världen bidrog till att du gjorde detta val?\" (Det kan hjälpa att borra djupare och hitta den verkliga orsaken genom att ställa frågan: \"Vad ligger bakom den föreställningen?\". Det är möjligt att svaret är \"Jag vet inte\".)",
-          "**Med denna insikt om dig själv, skulle du göra ett annat val idag? (ja eller nej)** (Med andra ord: \"Vill du leva dina värderingar?\")",
-          "**Du har insett att du har en föreställning, det som du tror om dig själv, som förklarar det beteende som du vill avstå från. Du kan nu välja att åta dig en handling som konfronterar föreställningen. Vill du göra det [och i så fall vilken]?** Töjningen ska vara SMART, dvs. specifik, mätbar, lockande, relevant och tidsbestämd. **Vill du ha stöd för att visa din intention att utföra den handling som du har valt? Att skriva i gruppchatten och** rapportera till gruppen är ett alternativ.",
+          "**Vad kan vara en underliggande FÖRESTÄLLNING, det som du tror om dig själv, som förklarar detta beteende?** \"Vilken föreställning om dig själv eller världen bidrog till att du gjorde detta val?\" (Det kan hjälpa med att borra djupare och hitta den verkliga orsaken genom att ställa frågan: \"Vad ligger bakom den föreställningen?\" Det är möjligt att svaret är \"Jag vet inte\".)",
+          "**Med denna insikt om dig själv, skulle du göra ett annat val idag? (ja eller nej)** (Med andra ord, \"Vill du leva dina värderingar?\")",
+          "**Du har insett att du har en föreställning, det som du tror om dig själv, som förklarar det beteende som du vill avstå från. Du kan nu välja att åta dig en handling som konfronterar föreställningen. Vill du göra det [och i så fall vilken]?** Töjningen ska vara SMART dvs. specifik, mätbar, lockande, relevant och tidsbestämd. **Vill du ha stöd för att visa din intention att utföra den handling som du har valt? Att skriva i gruppchatten och** rapportera till gruppen är ett alternativ.",
           "**Är du klar i och med detta?**"
         ]
       },
       {
-        "title": "Ansvarighetsstöd (en eventuell inledning före ansvarighetsprocessen)",
-        "intro": "Stödja en annan mans ansvarighet (\"Ansvarighetsstöd\").\n\n\"Finns det någon i rummet som upplever att det finns en annan man här som har brutit en överenskommelse?\"\n\nNär någon vill stödja en man till att inse att han har brutit en överenskommelse, facilitera denna process:",
+        "title": "En eventuell inledning före ansvarighetsprocessen: Stödja en annan mans ansvarighet (\"Ansvarighetsstöd\")",
+        "intro": "\"Finns det någon i rummet som upplever att det finns en annan man här som har brutit en överenskommelse?\"\n\nNär någon vill stödja en man till att inse att han har brutit en överenskommelse, facilitera denna process:",
+        "startNumber": 1,
         "steps": [
           "**Vem vill du stödja?**",
           "Den som faciliterar eller leder ronden frågar mannen som nämnts som objekt för stöd: **Vill du höra erbjudandet om att inse att du har brutit en överenskommelse?** Om svaret är Nej, avbryt omedelbart processen utan diskussion.",
-          "Om svaret är Ja: Säg till den första mannen **\"Ge mannen ditt stöd i form av: 'Jag tror att du har ingått en överenskommelse om att …'\".**",
-          "Fråga den andra mannen: **\"Vill du granska din ansvarighet kring detta?\"** Om svaret är Nej, avbryt omedelbart processen utan diskussion. Om svaret är Ja, kör ansvarighetsprocessen ovan."
+          "Om svaret är Ja: Säg till den första mannen \"**Ge mannen ditt stöd i form av** \"**Jag tror att du har ingått en överenskommelse om att ...**\"\".",
+          "Fråga den andra mannen: \"**Vill du granska din ansvarighet kring detta?**\" Om svaret är Nej, avbryt omedelbart processen utan diskussion. Om svaret är ja, kör ansvarighetsprocessen ovan."
         ]
       }
     ]
@@ -43,19 +45,19 @@
     "syfte": "Få utlopp för en laddning/ilska, ta ansvar för sin projektion och se sin bakomliggande föreställning, och landa i ett helande.",
     "anvandbarNar": "En man upplever stark ilska.",
     "kommentar": "Samma process som i Rensningsrundan, men nu finns mera tid att gå djupare med hans projektioner. Använd en närvarande man som spegel, eller en tom stol.",
-    "intention": "Att rensa bort hinder för närvaron, p.g.a. en laddning/spänning mot någon eller något, för att upprätthålla bra relationer, bygga tillit och bli medveten om sina föreställningar. Föreställningar som hindrar dig från att vara rationell – föreställningar som är baserade på något som har hänt tidigare, men har något att göra med idag.",
-    "energi": "Rensning måste faciliteras med mycket tydliga gränser. Led med bestämdhet så att processen är säker. Det är viktigt att hålla isär fakta från känslor och dömanden. Faktafrågan ska besvaras konkret, t.ex. \"Han sa att jag är ful\" – bara det som en kamera eller mikrofon skulle ha fångat: \"Hen sa …\" eller \"Hen gjorde …\". Berätta inte någon lång historia.\n\nRensning handlar om mannen som har en laddning, så att han kan få syn på sina föreställningar – det som står mellan honom och verkligheten.",
+    "intention": "Att rensa bort hinder för närvaron, p.g.a. en laddning/spänning mot någon eller något, för att upprätthålla bra relationer och bygga tillit och bli medveten om sina föreställningar. Föreställningar som hindrar dig från att vara rationell, föreställningar som är baserade på nåt som har hänt tidigare, men har något att göra med idag.",
+    "energi": "Rensning måste faciliteras med mycket tydliga gränser. Du behöver leda med bestämdhet så att processen är säker. Det är viktigt att hålla isär fakta från känslor eller dömanden osv. Fråga 2 ska besvaras konkret, t.ex. \"Han sa att jag är ful\" (\"Vad hände rent objektivt? Vad såg du och vad hörde du? (Utan dömanden!)\"). Här ska du inte berätta någon lång historia – utan bara det som kameran eller mikrofonen skulle ha fångat: \"Hen sa …\" eller \"Hen gjorde ...\".\n\nRensning handlar om mannen som har en laddning, så att han kan få syn på sina föreställningar, det som står mellan honom och verkligheten.",
     "sections": [
       {
         "title": "Obs",
-        "intro": "Rensning är en process för att identifiera en laddning eller spänning som har uppstått i ett förhållande. Genom att identifiera laddningen och dess härkomst kan förhållandet fortlöpa utan att laddningen – som tillhör det förflutna – stör. Att se en laddning och förstå föreställningen bakom den är inte att lösa en konflikt. Beteendet som har triggat laddningen kan vara något att diskutera – rensningsprocessen gör det möjligt att samtala om detta UTAN föreställningen och laddningen som har gett upphov till den."
+        "intro": "Rensning är en process för att identifiera en laddning eller spänning som har uppstått i ett förhållande och genom att identifiera laddningen och dess härkomst kan förhållandet fortlöpa utan att laddningen – som tillhör det förflutna – stör. Att se en laddning och förstå föreställningen som ligger bakom laddningen som pågår är inte att lösa en konflikt. Beteendet som har triggat laddningen kan vara något att diskutera – rensningsprocessen gör det möjligt att samtala om detta UTAN föreställningen och laddningen som har gett upphov till den."
       },
       {
         "title": "Upplägg",
-        "intro": "Mötets ledare eller den som har hand om Rensa Hinder-rundan säger till gruppen:\n\nTitta runt i gruppen. Se de andra, var för sig, i ögonen. Har någon man här en laddning (arg/ledsen/rädd/glad/skamsen) med någon annan i gruppen eller med en person utanför gruppen, som hindrar honom från att vara helt närvarande här och nu?\n\nOm någon svarar \"Ja\", genomför denna process. Om flera säger Ja, ta dem i tur och ordning.",
+        "intro": "Mötets ledare eller den som har hand om Rensa Hinder-rundan säger till gruppen:\n\n**Titta runt i gruppen. Se de andra, var för sig, i ögonen. Har någon man här en laddning (**arg/ledsen/rädd/glad/skamsen)** med någon annan i gruppen eller med en person utanför gruppen och som hindrar honom från att vara helt närvarande här och nu?**\n\nOm någon svarar \"Ja\" genomför denna process. Om flera säger Ja, ta dem i tur och ordning.",
         "startNumber": 1,
         "steps": [
-          "**Vem vill du ska facilitera processen?** Facilitatorn ställer sedan alla frågor nedan. **Vem vill du rensa med? Vem har du laddning med?**\n\nIntention: Vad är din intention med rensningen? (Be någon skriva upp/komma ihåg intentionen, så att den kan hänvisas till på slutet.)"
+          "**Vem vill du ska facilitera processen?** Denne facilitator ställer sedan alla frågor nedan:\n**Vem vill du rensa med? Vem har du laddning med?**\n**Intention:** Vad är din intention med rensningen? (Be någon skriva upp/komma ihåg intentionen, så att den kan hänvisas till på slutet)."
         ]
       },
       {
@@ -64,7 +66,7 @@
         "steps": [
           "**Fakta eller data:** Vad hände rent objektivt? Vad skulle en kamera eller en bandspelare ha fångat upp? Vad såg du och vad hörde du? (Utan dömanden!)",
           "**Dömanden:** Hur dömer eller uppfattar du en person som säger eller gör så? (INTE känslor!)",
-          "**Känsla:** Hur fick det dig att känna? (Igen utan dömanden! Bara beskriv känslorna – arg, glad, ledsen, rädd …)"
+          "**Känsla:** Hur fick det dig att känna? (Igen utan dömanden! Bara beskriv känslorna – arg, glad, ledsen, rädd ...)"
         ]
       },
       {
@@ -72,13 +74,14 @@
         "intro": "Mannen som rensar ska erkänna sin projektion.",
         "startNumber": 5,
         "steps": [
-          "Vem påminner den andra personens beteende eller energi dig om? (Vänta på svar – försök att få fram en verklig person i mannens liv.)\nOCH/ELLER: När var första gången du upplevde något som liknade det här? (Vänta på svar.) Är en del av energin som finns i den där gamla situationen kopplad till den nuvarande situationen?",
-          "Kan du erkänna och se att detta är dina känslor, tankar och dömanden som du lägger på situationen? Kan du äga dessa?\n\nNu har vi tittat tillbaka i ditt förflutna, på något som har hänt i ditt liv. Du har fått syn på en situation och blivit påmind om den. Min inbjudan nu är att du kommer tillbaka till nutid, denna manscirkel – men tar med dig minnet från ditt förflutna.",
+          "Vem påminner den andra personens beteende eller energi dig om? (vänta på svar) – försök att få en verklig person i mannens liv\nOCH/ELLER:\nNär var första gången du upplevde något som liknade det här? (vänta på svar)\nÄr en del av energin som finns i den där gamla situationen kopplad till den nuvarande situationen?",
+          "Kan du erkänna och se att detta är dina känslor, tankar, och dömande som du lägger på situationen? Kan du äga dessa?\n\nNu har vi tittat tillbaka i ditt förflutna, på något som har hänt i ditt liv. Du har fått syn på en situation och blivit påmind om den. Min inbjudan nu är att du kommer tillbaka till nutid, denna manscirkel – men tar med dig minnet från ditt förflutna.",
           "**Förstår du att den här laddningen handlar om att du associerar till något från ditt förflutna och har lagt in det i situationen?**",
-          "**Vilken är föreställningen eller värderingen om dig själv, eller världen, bakom det här beteendet? Vad är det som du tror om dig själv som gör att du går igång på detta sätt?**\nOch/eller: Varifrån i ditt liv känner du igen dig i det här beteendet? Var reagerar du på ett liknande sätt? Med vem? Vad brukar det ha för påverkan/resultat?",
+          "**Vilken är föreställningen eller värderingen om dig själv, eller världen, bakom det här beteendet? Vad är det som du tror om dig själv som gör att du går igång på detta sätt?**\nOch/eller:\nVarifrån i ditt liv känner du igen dig i det här beteendet? Var reagerar du på ett liknande sätt? Med vem? Vad brukar det ha för påverkan/resultat?",
           "Vad behöver förändras för att du inte ska reagera på samma sätt nästa gång?",
-          "**Identifiera gärna en lämplig töjning (mätbar och nåbar).** Finns det något tillfälle inom en nära framtid där det finns risk att du blir utmanad, att du \"går igång\"? Finns det någon speciell situation när det kan hända? Kan du välja ett annat beteende?"
-        ]
+          "**Identifiera gärna en lämplig töjning (mätbar och nåbar)**. Finns det något tillfälle inom en nära framtid där det finns risk att du blir utmanad, att du \"går igång\"? Finns det nån speciell situation när det kan hända? Kan du välja ett annat beteende?"
+        ],
+        "note": "Föreställningen (punkt 8) kallas även Skugga, och är något som du döljer, förtränger eller förnekar om dig själv. I typfallet orsakad av ett tidigt trauma som gett upphov till en falsk föreställning om dig själv, vilken leder till skuggbeteenden som inte gagnar dig. En omedveten skugga kan ofta styra dina beslut i livet."
       },
       {
         "title": "Helande",
@@ -86,10 +89,10 @@
         "steps": [
           "Tänk på den andra parten och ert förhållande. Nu när du ser situationen tydligare, hur vill du ha det för egen del, även om du vet att du kanske inte får det?",
           "Vad vill du få ut av den här relationen till den andra personen i fortsättningen, medveten om att du kanske inte får det?",
-          "Uppfylldes din intention? (Läs upp intentionen som nedtecknades i början.)",
-          "**Till mannen som arbetar:** Är du klar så att du kan delta utan distraktion i arbetsronden?"
+          "Uppfylldes din intention? (läs upp intentionen från punkt 5)",
+          "**Till mannen som arbetar:** Är du klar så att du kan deltar utan distraktion i arbetsronden."
         ],
-        "note": "Efter avslutad rensning, och innan gruppen går vidare till arbetsrundan, ska den inledande frågan ställas igen: \"Har någon man här en laddning (arg/ledsen/rädd/glad/skamsen) med någon annan man i gruppen eller med någon person utanför gruppen, som hindrar honom från att vara helt närvarande här och nu?\" Detta eftersom en laddning kan uppstå för en gruppmedlem genom att åskåda/bevittna en rensning."
+        "note": "Efter avslutad rensning och innan gruppen går vidare till arbetsrundan ska den inledande frågan: **\"Har någon man här en laddning (**arg/ledsen/rädd/glad/skamsen)** med någon annan man i gruppen eller med någon person utanför gruppen som hindrar honom från att vara helt närvarande här och nu?\"** ställas igen. Detta för att en laddning kan uppstå för en gruppmedlem genom åskådande/bevittnande av en rensning."
       }
     ]
   },
@@ -99,20 +102,25 @@
     "syfte": "Att be om råd och återkoppling kring ett problem, en situation eller fundering.",
     "anvandbarNar": "En man behöver råd från sina bröder i ett beslut, eller bara få feedback på det han säger. Eller när mannen bara vill bli hörd, utan feedback.",
     "kommentar": "Kan vara en bra start för att bättre förstå sin situation, som kan leda till djupare arbete. Det är lätt att hamna i dialog, så ett sätt att påminna varandra och hantera det kan behövas.",
-    "tid": "ca 10–15 min (3–7 min beskrivning, 3–7 min rådgivning, 1–2 min töjning/stretch/utmaning).",
+    "tid": "ca 10-15 min (3-7 min beskrivning, 3-7 min rådgivning, 1-2 min Töjning/Stretch/Utmaning).",
     "sections": [
       {
-        "title": "Om syftet",
-        "intro": "Att ta ansvar för sitt eget arbete och be om hjälp. Att tydliggöra principen att en facilitator och gruppmedlem bara ska ge råd när det är efterfrågat. Processen är lämplig för att få råd, förslag och idéer om en situation eller ett problem.\n\nProcessen kan mycket väl resultera i en insikt om det som mannen har valt att arbeta med. Situationen + insikt kan ge möjlighet att upptäcka en töjning/stretch/utmaning, och möjlighet till ett nytt angreppssätt för mannen att \"ändra kurs i sitt liv utifrån en bättre karta\"."
+        "title": "Syfte",
+        "intro": "Att ta ansvar för sitt eget arbete och be om hjälp.\nAtt tydliggöra principen att en facilitator och gruppmedlem bara ska ge råd när det är efterfrågat.\nProcessen är lämplig för att få råd, förslag och idéer om en situation eller ett problem.\n\nProcessen kan mycket väl resultera i en insikt om det som mannen har valt att arbeta med. Situationen + insikt kan ge möjlighet att upptäcka en Töjning/Stretch/Utmaning, och möjlighet till nytt angreppssätt för mannen att \"ändra kurs i sitt liv utifrån en bättre karta\"."
+      },
+      {
+        "title": "Viktigt att komma ihåg",
+        "intro": "Det är lätt att hamna i dialog, så ett sätt att påminna varandra och hantera det kan behövas."
       },
       {
         "title": "Instruktion",
+        "startNumber": 1,
         "steps": [
-          "Välj en facilitator och placera stolarna i en hästsko framför en stol som är \"Kungens tron\", där den som arbetar sätter sig. Resten av gruppen är \"Kungens rådgivare\" och sätter sig i hästskon. (Eller, som det brukar se ut när gruppen är van vid processen: mannen som ska arbeta (\"Kungen\") säger: \"Jag kommer att prata i fem minuter och vill sedan ha återkoppling i fem minuter\".)",
-          "Kungen spenderar 3–7 minuter på att beskriva den situation som utmanar honom, där han känner att han har få handlingsalternativ. Mannen ombeds vara rakt på sak och säga sanningen. Rådet lyssnar aktivt, utan att ställa frågor, med vetskap om att de strax kommer att ges tillåtelse att ge förslag och feedback – utan krav på att lösa Kungens problem.",
-          "Kungen frågar sedan var och en i Rådet: \"Vad tänker du?\". En rådgivare kan säga \"pass\", och facilitatorn hjälper var och en att hålla sig kort, rak och tydlig. Varje man som svarar Kungen gör det ärligt och sant. Om en man verkar ha svårt att vara helt rak/ärlig kan facilitatorn stödja genom att säga: \"Censurera dig inte. Berätta din sanning som du ser den, men med medkänsla\".",
+          "Välj en facilitator och placera stolarna i en hästsko framför en stol som är \"Kungens tron\", där den som arbetar sätter sig. Resten av gruppen är \"Kungens rådgivare\" och sätter sig i hästskon.\n(**eller** som det brukar se ut när gruppen är van vid denna process: mannen som ska arbeta (\"Kungen\") säger: -\"Jag kommer att prata i fem minuter och vill sedan ha återkoppling i fem minuter\".)",
+          "Kungen spenderar 3-7 minuter på att beskriva den situation som utmanar honom, där han känner att han har få handlingsalternativ. Mannen ombeds vara rakt på sak och säga sanningen. Rådet lyssnar aktivt, utan att ställa frågor, med vetskap att de strax kommer att ges tillåtelse att ge förslag och feedback utan krav på att lösa kungens problem.",
+          "Kungen frågar sedan var och en i Rådet -\"Vad tänker du?\" En rådgivare kan säga \"pass\" och facilitatorn hjälper var och en att hålla sig kort, rak och tydlig. Varje man som svarar Kungen med sin feedback gör det ärligt och sant. Om en man verkar ha svårt att vara helt rak/ärlig kan facilitatorn stödja genom att säga \"Censurera dig inte. Berätta din sanning som du ser det, men med medkänsla\".",
           "Kungen kan ha en följdfråga till en man, och den besvaras på samma sätt. Facilitatorn förhindrar att dialog uppstår och kan föreslå att en fördjupad dialog sker senare, utanför mötet, vid behov.",
-          "När Kungen fått de svar han behöver, har utvecklat en ev. töjning (som rådgivarna eller facilitatorn har hjälpt honom att sätta upp SMART) samt fått ev. stöd för att rapportera sin töjning, säger han \"Tack\" till var och en och lämnar sedan stolen. Därmed är processen avslutad."
+          "När Kungen fått de svar han behöver, har utvecklat en ev. Töjning som rådgivarna eller facilitatorn har hjälpt honom att sätta upp samt fått ev. stöd för att rapportera sin Töjning säger han \"Tack\" till var och en och lämnar sedan stolen, och därmed är processen avslutad."
         ]
       }
     ]
@@ -127,31 +135,32 @@
     "sections": [
       {
         "title": "Utgångspunkt",
-        "intro": "Mannen har ett mål, en töjning eller utmaning eller något liknande, samt en upplevelse av att det finns något som hindrar honom från att uppnå målet. Vi behöver inte känna till mannens mål. Mannen blir faciliterad genom processen nedan."
+        "intro": "Mannen har ett mål, en töjning eller utmaning eller något liknande samt en upplevelse av att det finns något som hindrar honom från att uppnå målet. Vi behöver inte känna till mannens mål. Mannen blir faciliterad genom processen nedan."
       },
       {
-        "title": "Om syftet",
-        "intro": "Att tydliggöra den värdering eller \"inre röst\" som hindrar mannen från att uppnå det han vill genomföra, och gärna hitta ett sätt att omvandla hindret till ett stöd. Det kan finnas flera inre röster (\"å ena sidan, å andra sidan …\") – välj den som är tydligast (eller utöka processen och kör den flera gånger, en för varje röst).\n\nSe till att det finns en man som antecknar."
+        "title": "Syfte",
+        "intro": "Att tydliggöra den värdering eller \"inre röst\" som hindrar mannen från att uppnå det som han vill genomföra och gärna hitta ett sätt att omvandla hindret till ett stöd. Det kan finnas flera inre röster (\"å ena sidan, å andra sidan …\") välj den som är tydligast (eller utöka processen till att köra processen flera gånger, en för varje röst).\n\nSe till att det finns en man som antecknar."
       },
       {
         "title": "Inledning",
-        "intro": "Facilitatorn läser upp detta, förutom [text inom hakparenteser].\n\nDu har ett mål som du vill uppnå, men det finns något i dig som hindrar dig, eller hur? Hindret är rätt mäktigt och kan ibland ta kommandot och \"ta plats i förarsätet och köra bussen\", kanske till och med tvinga dig att göra saker mot din vilja. Stämmer det? [Vänta in ett bekräftande svar.]\n\nVi har en övning som vi kan använda för att förstå vad det är som hindrar dig och hur du möjligen kan komma förbi hindret. Vill du prova? [Vänta in ett bekräftande svar.]"
+        "intro": "Facilitatorn läser upp detta, förutom [text inom hakparenteser].\n\nDu har ett mål som du vill uppnå, men det finns något i dig som hindrar dig, eller hur? Hindret är rätt mäktigt och kan ibland ta kommandot och \"ta plats i förarsätet och köra bussen\" kanske till och med tvinga dig att göra saker mot din vilja. Stämmer det? [Vänta in ett bekräftande svar]\n\nVi har en övning som vi kan använda för att förstå vad det är som hindrar dig och hur du möjligen kan komma förbi hindret. Vill du prova? [Vänta in ett bekräftande svar]"
       },
       {
         "title": "Process",
-        "intro": "Facilitatorn läser upp detta, förutom [text inom hakparenteser]. [Väntar in ett svar efter varje fråga.]\n\nFacilitator: Är det ok om jag eller någon annan antecknar eller lägger det som du säger på minnet?",
+        "intro": "Facilitatorn läser upp detta, förutom [text inom hakparenteser]. [Väntar in ett svar efter varje fråga]\n\n**Facilitator: Är det ok om jag eller någon annan antecknar eller lägger det som du säger på minnet?**",
+        "startNumber": 1,
         "steps": [
-          "Så: du har en del av dig som hindrar dig från att nå ditt mål. Kan du uppfatta denna del som en inre röst inom dig? Skulle vi kunna prata med din inre röst? Kan vi kalla denna del för \"rösten\" under resten av övningen – eller har du något eget namn på rösten?",
-          "Kan du blunda och komma i kontakt med rösten (eller din beteckning)? Säg till när du har nått den delen av dig själv. [Vänta tills mannen säger till.] Får jag prata med rösten/namnet?",
-          "[Nu pratar facilitatorn med rösten.] Tack, rösten/namnet, för att du ställer upp! Vi vet att du har goda intentioner för (mannens namn). Vad vill du genom att hindra honom – vilken positiv effekt tänker du att ditt hindrande kan ha för honom?",
-          "Vad vill du framför allt göra för honom – hur vill du att han ska ha det eller känna sig? [Kom ihåg/skriv ned detta, dvs. \"röstens syfte\": vad den vill göra för mannen.]",
-          "När kom du in i hans liv – hur gammal var (mannens namn) då?",
+          "Så: du har en del av dig som hindrar dig från att nå ditt mål. Kan du uppfatta denna del som en inre röst inom dig? Skulle vi kunna prata med din inre röst? Kan vi kalla denna del för \"rösten\" under resten av övningen - eller har du något eget namn på rösten?",
+          "Kan du blunda och komma i kontakt med rösten (eller din beteckning)? Säg till när du har nått den delen av dig själv. [väntar tills mannen säger till] Får jag prata med rösten/namn?",
+          "[Nu pratar facilitatorn med rösten]. Tack, rösten/namn för att du ställer upp! Vi vet att du har goda intentioner för (mannens namn). Vad vill du genom att hindra honom, vilken positiv effekt tänker du att ditt hindrande kan ha för honom?",
+          "Vad vill du framför allt göra för honom, hur vill du att han ska ha det eller han ska känna sig? [Kom ihåg/skriv ned detta, dvs. \"röstens syfte\" vad den vill göra för mannen.]",
+          "När kom du in i hans liv, hur gammal var (mannens namn) då?",
           "Vilka var omständigheterna?",
-          "Vad händer med dig, rösten, när (mannens namn) inte lyssnar på dig – hur känner du då? Vad gör du då, när han inte lyssnar på dig?",
-          "Du, rösten, har fyllt en viktig funktion i (mannens namns) liv. Den goda nyheten är att du alltid kommer att ha en plats i (mannens namns) liv. Finns det något mer som du vill säga om (mannens namn) och ditt förhållande till honom?\n\nNu tackar jag dig och återupptar samtalet med (mannen som jobbar). Till mannen som jobbar: Nu ska du släppa rösten – tala om för mig när jag kan prata med dig, (mannens namn), igen.",
-          "Till mannen: När du nu känner till röstens syfte [här kan facilitatorn kortfattat sammanfatta det som rösten har sagt] och hur den tänker – har du nu fått bättre förståelse för hur den kan hindra dig idag? Vad kan du göra, eller vad kanske du redan gör, för att få bukt med röstens försök att styra dig?\n[Här kan processen avslutas om tiden är kort.]\nVi kan försöka dra nytta av röstens kompetens och så att säga ge honom ett nytt uppdrag i linje med dina nuvarande målsättningar. Vill du prova att rekrytera honom till teamet? [Vänta på en bekräftelse.]",
-          "Vad är röstens kompetens – vad är det som rösten är riktigt bra på? Vilka är röstens styrkor? [Här kan det räcka med en fråga, men den ytterligare frågan kan läggas till vid behov.] Nu när du har kommit fram till vad rösten är bra på – kan du använda röstens kompetens till något värdefullt för att nå ditt mål idag? [Om mannen har svårt att se någon fördel, erbjud din hjälp – om han accepterar den.]",
-          "Kan du formulera det i form av en aktivitet eller en töjning? Berätta om din töjning, eller välj att avstå. [Detta kan ha den dubbla funktionen att exponera röstens behov [röstens syfte] och därmed tydliggöra vad mannen behöver göra för att inte låta den hindra honom från att nå sina mål.]",
+          "Vad händer med dig, rösten, när (mannens namn) inte lyssnar på dig, hur känner du då? Vad gör du då - när han inte lyssnar på dig?",
+          "Du, rösten, har fyllt en viktig funktion i (mannens namns) liv. Den goda nyheten är att du alltid kommer att ha en plats i (mannens namns) liv. Finns det nåt mera som du vill säga om (mannens namn) och ditt förhållande till honom?\nNu tackar jag dig och återupptar samtalet med (mannen som jobbar).\n**Till Mannen som jobbar: Nu ska du släppa rösten - tala om för mig när jag kan prata med dig (mannens namn) igen.**",
+          "**Till mannen:** När du nu känner till röstens syfte [här kan facilitatorn kortfattat sammanfatta det som rösten har sagt] och hur den tänker, har du nu fått bättre förståelse för hur den kan hindra dig idag? Vad kan du göra eller vad kanske du redan gör för att få bukt med röstens försök att styra dig?\n[Här kan processen avslutas om tiden är kort].\nVi kan försöka dra nytta av röstens kompetens och så att säga ge honom ett nytt uppdrag i linje med dina nuvarande målsättningar. Vill du prova att rekrytera honom till teamet? [Vänta på en bekräftelse]",
+          "Vad är röstens kompetens, vad är det som rösten är riktigt bra på? Vilka är röstens styrkor? [Här kan det räcka med en fråga, men den ytterligare frågan kan läggas till vid behov.]\nNu när du har kommit fram till vad rösten är bra på, kan du använda röstens kompetens till något värdefullt för att nå ditt mål idag? [Om mannen har svårt att se någon fördel, erbjud din hjälp - om han accepterar den].",
+          "Kan du formulera det i form av en aktivitet eller en töjning? Berätta om din töjning eller välj att avstå. [Detta kan ha den dubbla funktionen att exponera röstens behov [röstens syfte] och därmed tydliggöra vad mannen behöver göra för att inte låta den hindra honom från att nå sina mål.]",
           "Är du klar?",
           "Tack för ditt arbete!"
         ]
@@ -168,39 +177,39 @@
     "sections": [
       {
         "title": "Syfte och bakgrund",
-        "intro": "Att läka den föreställning, värdering eller \"inre röst\" som upplever brist, eller en stark längtan efter ett annat liv. Målet är att flytta deltagaren från hopplöshet eller modfälldhet till inspiration.\n\nHopplöshet: deltagaren tror inte att han kan ändra sitt liv, han sitter fast, upplever brist på kontroll, tror att allt måste flyta på som vanligt eller att han inte förtjänar något bättre osv.\n\nInspiration: att vilja ha förändring, att söka förändring med glädje och nyfikenhet.\n\nDet som flyttar en deltagare från hopplöshet till inspiration är välsignelse (blessing): att hjälpa personen få kontakt med sin egen inre, ovillkorliga kärlek."
+        "intro": "Att läka den föreställning, värdering eller \"inre röst\" som upplever brist, eller en stark längtan efter ett annat liv.\n\nMålet är att flytta deltagaren från hopplöshet eller modfälldhet till inspiration.\nHopplöshet: deltagaren tror inte att han kan ändra sitt liv, han sitter fast, upplever brist på kontroll, tror att allt måste flyta på som vanligt eller att han inte förtjänar något bättre osv. Inspiration: att vilja ha förändring, att söka förändring med glädje och nyfikenhet. Det som flyttar en deltagare från en känsla av hopplöshet till inspiration är välsignelse (blessing); att hjälpa personen få kontakt med sin egen **inre** ovillkorlig kärlek."
       },
       {
         "title": "Instruktion",
-        "intro": "Facilitatorn läser upp huvudtexten; den text som anges som alternativ är frågor som kan användas vid behov. [Text inom hakparenteser är instruktioner för den som faciliterar och ska inte läsas upp.]"
+        "intro": "Facilitatorn **läser upp texten i fet stil,** övrig text är alternativa frågor som kan användas vid behov. [Texten inom hakparenteser är instruktioner för den som faciliterar och ska inte läsas upp]."
       },
       {
         "title": "Inledning",
-        "intro": "Vi alla har en del av oss som hindrar oss från att nå våra mål och från att leva våra liv som vi egentligen önskar. Denna process är till för att tydliggöra dessa hinder och få kontakt med ens egna förmågor och självinsikt. Du kommer att få ett antal frågor som hjälper dig, och det enda du behöver göra är att svara uppriktigt från magen eller hjärtat. Du kommer att bli ledd genom processen – det finns inget du ska prestera eller förstå här.\n\nÄr det Ok att jag antecknar dina svar?"
+        "intro": "**Vi alla har en del av oss som hindrar oss att nå våra mål och hindrar oss från att leva våra liv som vi egentligen önskar. Denna process är till för att tydliggöra dessa hinder och få kontakt med ens egna förmågor och självinsikt. Du kommer att få ett antal frågor som hjälper dig och det enda du behöver göra är att svara uppriktigt från magen eller hjärtat. Du kommer att bli ledd genom processen, det finns inget du ska prestera eller förstå här.\n\nÄr det Ok att jag antecknar dina svar?**"
       },
       {
         "title": "#1 Vad han verkligen vill ha",
-        "intro": "Börja med att blunda (håll ögonen stängda under hela processen om du vill). Andas in en kärleksfull helikoptersyn på ditt liv, så som det är och som det har sett ut fram till idag. [Paus]\n\nVad önskar du mest av allt i ditt liv, för egen del?\n\n[Se till att du verkligen förstår vad mannen behöver/längtar efter, på den djupaste nivån. Vänta på hans svar. Vänd och vrid på frågorna tills du har ett tydligt och kortfattat svar. Du kan föreslå ett sammanfattande svar, som han i så fall ska bekräfta.]\n\nAlternativa frågor för att hitta ett djupt svar:\n– Vad saknas i ditt liv, vad behöver du?\n– Vad längtar du efter?\n\n[När det finns tillräcklig klarhet i vad han önskar mest:]\n– Hur skulle du känna dig om du fick det?\n– Vad skulle vara annorlunda i ditt liv om du fick det?\n\nOk, det du längtar efter eller behöver mest av allt är … [upprepa vad han har sagt, eller anteckna].\n\n[Exempel:\n– \"Jag vill vinna på lotto.\"\n– \"Ok, så det du vill ha är att få allt du behöver, utan att behöva göra något själv?\"\n– \"Ja, det är vad det innebär att vinna på lotto.\"]"
+        "intro": "**Börja med att blunda och (håll ögonen stängda under hela processen om du vill). Andas in en kärleksfull helikoptersyn på ditt liv, så som det är, och som det har sett ut fram till idag.** [Paus]\n\n**Vad önskar du mest av allt i ditt liv, för egen del?**\n\n[Se till att du verkligen förstår vad mannen behöver/längtar efter, på den djupaste nivån. Vänta på hans svar. Vänd och vrid på frågorna tills du har ett tydligt och kortfattat svar. Du kan föreslå ett sammanfattande svar, som han i så fall ska bekräfta.]\n\n[Alternativa frågor för att hitta ett djupt svar:]\nVad saknas i ditt liv, vad behöver du?\nVad längtar du efter?\n[när det finns tillräckligt klarhet i vad han önskar mest i sitt liv]:\nHur skulle du känna dig om du fick det?\neller\nVad skulle vara annorlunda i ditt liv om du fick det?\n\n**Ok, det du längtar efter eller behöver mest av allt är ....** [upprepa bara vad han har sagt, så du kommer ihåg det - eller anteckna:]\n\n[Exempel på dialog:\n-\"Jag vill vinna på lotto\"\n-\"Ok, så det du vill ha är alltså att få allt du behöver, utan att behöva göra något själv?\"\n-\"Ja, det är vad det innbär att vinna på lotto\"]"
       },
       {
         "title": "#2 Vad han fick istället",
-        "intro": "Vad har livet gett dig istället för … [läs upp svaret på #1]?\n\nAlternativa frågor:\n– Vad har du fått istället för det du behöver?\n– Ok, så vi vet vad du vill ha – vad får du egentligen?\n\n[Här vill vi hitta ett EXTERNT hinder till hans behov – det som världen gav honom istället för det han önskade. Ett externt hinder gör det lättare att känna medkänsla med sig själv än ett internt hinder (\"jag är dålig\"). Här börjar vi se den hjärtskärande berättelsen om hans liv – en berättelse han oftast inte insett pågår. Det är viktigt att detta är en situation personen verkligen bryr sig om, att #1 verkligen är något han vill ha.]\n\nDet jag har hört dig säga är att livet istället gett dig … [upprepa vad mannen sagt – anteckna].\n\n[Exempel: \"Jag vinner aldrig, jag har alltid otur.\"]\n\nStämmer detta? Rätta mig om det jag sade var fel."
+        "intro": "**Vad har livet gett dig istället för** ... [läs upp svaret på fråga #1]**?**\n\n[Alternativa frågor:]\nVad har du fått istället för det du behöver?\nOk, så vi vet vad du vill ha - vad får du egentligen?\n\n[Här vill vi hitta ett EXTERNT hinder till hans behov, det som världen gav honom istället för att ge honom det han behövde och önskade sig. Ett externt hinder gör det lättare att känna med sig själv än vad ett internt hinder gör (\"jag är dålig\").\nDet som händer här är att vi börjar se den hjärtskärande berättelsen om hans liv, en berättelse som de oftast inte har insett pågår. Det är förstås viktigt att detta är en situation personen verkligen bryr sig om, att #1 verkligen är något han vill ha.]\n\n**Det jag har hört dig säga är att livet istället gett dig . ....** [upprepa bara vad mannen har sagt i #2 ovan - anteckna]\n\n[Exempel: \"Jag vinner aldrig, jag har alltid otur\"]\n\n**Stämmer detta? - rätta mig om det jag sade var fel**"
       },
       {
-        "title": "#3 Det hjärtskärande öde han har börjat acceptera",
-        "intro": "[Summera svaren från #1 och #2 och fråga sedan:]\n\nSå hur börjar du tro att du behöver leva – vad är du tvungen att göra, eftersom du inte har fått det du behövde?\n\nAlternativa frågor:\n– Vad har du accepterat att livet kräver av dig?\n– Vad är det du måste acceptera och leva med, trots att det tar emot?\n– Vad upplever du att du har fått för överväldigande, hjärtskärande öde?\n\n[Här vill vi hitta mannens hjärtskärande sanning om världen han lever i. Dessa första tre frågor hjälper till att avtäcka den hopplösa delen av honom själv.]\n\n[Summera alla tre delarna så att han tydligt ser plågsamheten i sin situation:]\n\"Kan du se hur detta är den värld du lever i?\nDu vill ha … [svaret från #1]\nIstället får du … [svaret från #2]\noch detta tvingar dig att leva … [svaret från #3].\"\n\n[Exempel: \"Så för att få allt du behöver i livet vill du vinna på lotto, men när du försöker händer det inte – du har alltid otur och vinner inte. Så hur börjar du tro att du blir tvungen att leva, när detta öde hindrar dig?\" – \"Jag börjar tro att enda sättet jag får något alls är genom att kämpa och lida för det.\"]"
+        "title": "#3 Det hjärtskärande öde han har börjat att acceptera",
+        "intro": "[Summera svaren från #1 och #2 och fråga sedan:]\n**Så hur börjar du tro att du behöver leva, vad är du tvungen att göra, eftersom du inte har fått det du behövde?**\n\n[Alternativa frågor:]\nVad har du accepterat att livet kräver av dig?\nVad är det du måste acceptera och leva med, trots att det tar emot?\nVad upplever du att du har fått för överväldigande, hjärtskärande öde?\n\n[Här vill vi hitta mannens hjärtskärande sanning om världen som han lever i. Dessa första tre frågor hjälper till att avslöja/avtäcka den hopplösa delen av honom själv.]\n\n[Summera alla tre delarna så att han tydligt ser plågsamheten i sin situation:]\n**\"Kan du se hur detta är den värld du lever i?\nDu vill ha….** [svaret från #1]\n**Istället får du……** [svaret från #2]\n**och detta tvingar dig att leva……** [svaret från #3]**\"**\n\n[Exempeldialog:\n\"Så för att få allt du behöver i livet så vill du vinna på Lotto, men när du försöker händer det inte, du har alltid otur och du vinner inte. Så hur börjar du tro att du blir tvungen att leva, när detta öde hindrar dig?\"\n\"Jag börjar tro att enda sättet jag få något alls, är genom att kämpa och lida för det.\"]"
       },
       {
         "title": "#4 Helande",
-        "intro": "När du nu har sett din situation – kan du tänka dig att fylla den del av dig som har haft denna ouppfyllda längtan (under så lång tid / hela livet) med medkänsla och kärlek? Kan du förlåta och acceptera den här längtande delen av dig? [Vänta på \"Ja!\"]\n\nLåt nu denna del av dig som har den ouppfyllda längtan vara omhuldad av kärlek – låt den få det den behöver.\n\nOm du har svårt att ge dig själv detta kan du bjuda in en person som du vet älskar dig och har kärlek att ge: kanske en äldre släkting, en inspirerande förebild, din hund eller din nalle – det spelar ingen roll vad källan är. Låt dig bara fyllas av kärlek, omsorg och medkänsla. [Paus]\n\nFår du kontakt med det du behöver – kan du känna att du börjar helas nu? Du kan berätta för mig när du känner en början till helande.\n\n[Det behövs någon slags bekräftelse här. Om mannen inte kämpar med uppgiften kan nedanstående hoppas över:]\n\nOm det är svårt att släppa in kärleken, eller om du är riktigt nere, upprepa det för ditt inre i form av en bön: \"Snälla älska mig\" eller \"Hjälp mig ta emot kärlek\". Även om det är svårt att ta emot, låt de upprepade orden få effekt."
+        "intro": "**När du nu har sett din situation, kan du tänka dig att fylla den delen av dig som har haft denna ouppfyllda längtan** (under en så lång tid/hela livet) **med medkänsla och kärlek? Kan du förlåta och acceptera den här längtande delen av dig?** [\"vänta på \"Ja!\"]\n\n**Låt nu denna del av dig som har denna ouppfyllda längtan vara omhuldad av kärlek, låt den få det den behöver.\nOm du har svårt att ge dig själv detta, kan du bjuda in en person som du vet älskar dig och har kärlek att ge; kanske en äldre släkting, kanske en inspirerande förebild, kanske din hund eller din nalle - det spelar ingen roll vad källan är. Låt dig bara fyllas av kärlek, omsorg och medkänsla.** [Paus]\n\n**Får du kontakt med det du behöver, kan du känna att du börjar helas nu?\n\nDu kan berättar för mig när du känna en början till helande**\n\n[Det behövs nån slags bekräftelse här. Om mannen **inte** kämpar med uppgiften, kan nedanstående hoppas över:]\nOm det är svårt att släppa in kärleken, eller om du är riktigt nere, upprepa det för ditt inre i form av en bön \"Snälla älska mig\" eller \"Hjälp mig ta emot kärlek\". Även om det är svårt att ta emot, låt de upprepade orden få effekt."
       },
       {
         "title": "#5 Summera",
-        "intro": "Lägg märke till hur det känns inuti dig nu. Faktum är att när vi släpper in kärleken upptäcker vi att vi är kärlek – ett större själv som det lilla självet, den behövande/längtande delen, kan vila tryggt i.\n\nFinns det några ord som den längtande delen av dig behöver höra? Vill du säga det högt till honom?\n\n[Vänta på mannens svar. Avsluta sedan med frågan:]\nVad är sant nu – vad vet du nu?\n\n[Det går också att avsluta med frågan, om det passar:]\n\"Vem skulle du vara utan din föreställning om att det är något fel med dig? Vad kan du nu göra som du var hindrad från tidigare?\""
+        "intro": "**Lägg märke till hur det känns inuti dig nu? Faktum är att när vi släpper in kärleken, så upptäcker vi att vi är kärlek, ett större själv som det lilla självet, den behövande/längtande delen, kan vila tryggt i.\n\nFinns det några ord som den längtande delen av dig behöver höra? Vill du säga det högt till honom?**\n\n[Vänta på mannens svar. Avsluta sedan med frågan:]\n**Vad är sant nu, vad vet du nu?**\n\n[Det går också att avsluta med frågan, om det passar:\n\"Vem skulle du vara utan din föreställning om att det är något som är fel med dig? Vad kan du nu göra som du var hindrade från tidigare?\"]"
       },
       {
         "title": "#6 Granska föreställningen om världen och skapa förändring",
-        "intro": "[Extra fråga som kan passa vid en uppföljning, när mannen inte är i ett kraftfullt inspirerat tillstånd – om mannen känner sig inspirerad behöver han inte hjälp!]\n\n[Vänta tills mannen har landat i sig själv och är redo att gå vidare, kanske vid ett senare tillfälle.]\n\nÄr du redo att granska din föreställning om den värld du har levt i?\n\nDen här föreställningen har du naturligtvis fått av familjen och samhället när du växte upp, och med tiden gjort den till din. Du har låtit den styra delar av ditt liv. Du vet nu att den inte längre är sann, men det är en berättelse som sitter djupt i dig. Ett sätt att frigöra dig från föreställningen är att leva och utföra handlingar som visar dig att den inte är sann. Delar av dig kommer att göra motstånd mot dessa handlingar, och därför kallar vi handlingen för töjningar eller utmaningar.\n\nVill du skapa en töjning åt dig själv som visar på det du nu vet är sant om dig själv?\n\n[Hjälp mannen att skapa den så att den blir nåbar, mätbar och relevant (SMART) och utförs dagligen eller åtminstone inom en vecka.]"
+        "intro": "[Extra fråga som kan vara lämplig att ta vid en uppföljning, när mannen inte är i ett kraftfullt inspirerat tillstånd (om mannen känner sig inspirerad behöver han inte hjälp!):]\n\n[Vänta in tills mannen har landat i sig själv och är redo att gå vidare, kanske vid ett senare tillfälle]\n**Är du redo att granska din föreställning om din värld som du har levt i?\nDen här föreställningen har du naturligtvis fått av familjen och samhället när du växte upp och med tiden gjort den till din. Du har låtit den här föreställningen styra delar av ditt liv. Du vet nu att den inte längre är sann, men det är en berättelse som sitter djupt i dig. Ett sätt att frigöra dig från föreställningen är att leva och utföra handlingar som visar dig att den inte är sann. Delar av dig kommer att göra motstånd mot dessa handlingar och därför kallar vi handling för töjningar eller utmaningar.\nVill du skapa en töjning åt dig själv, som visar på det du nu vet är sant om dig själv?**\n[Hjälp mannen med att skapa den så att den blir nåbar, mätbar och relevant (SMART) och utförs dagligen eller åtminstone inom en vecka.]"
       }
     ]
   },
@@ -217,28 +226,29 @@
         "intro": "Avslöja kognitiv dissonans, i synnerhet när det finns ett val mellan att stanna kvar eller våga gå vidare."
       },
       {
-        "title": "Om syftet",
-        "intro": "\"Vad är risken?\" ger oss ett sätt att undersöka svåra beslut och de begränsande föreställningar som ligger bakom dem. Kognitiv dissonans – en insikt i att valet, så som han har skapat det, i grunden inte är vettigt. När man kommit så långt kan han välja att stanna med insikten [av dissonans], eller gå vidare till en annan process, t.ex. BUCKETING. När verktyget används som stöd för att mejsla ut en arbetsformulering (work statement), eller i en annan process, kan det räcka med steg 2–4."
+        "title": "Syfte",
+        "intro": "\"Vad är risken?\" ger oss ett sätt att undersöka svåra beslut och de begränsande föreställningar som ligger bakom dessa. Kognitiv dissonans – en insikt i att valet, som han har skapat det, är i grunden inte vettigt. När man kommit så långt kan han välja att stanna med insikten [av dissonans] eller han kan gå vidare till en annan process t.ex. [BUCKETING](/processer/grav-djupare). När man använder detta verktyg som stöd till utmejsling av arbete att utföras [work statement], eller i andra process, kan det räcka med steg 2-4."
       },
       {
         "title": "Inledning",
-        "intro": "Facilitatorn läser upp detta, förutom [text inom hakparenteser].\n\nVad är ditt arbete här – vad vill du exponera eller få klarhet om? [Eller:] Beskriv valet du har framför dig. [Vänta in ett svar. Anteckna svaret.]\n\nVi har en övning som vi kan använda för att förstå det som hindrar dig, och hur du möjligen kan komma förbi hindret. Vill du prova? [Vänta in ett bekräftande svar.]"
+        "intro": "Facilitatorn läser upp detta, förutom [text inom hakparenteser].\n\nVad är ditt arbete här, vad vill du exponerar eller få klarhet om? [Eller] Beskriv valet som du har framför dig [Vänta in ett svar] [Anteckna svaret]\n\nVi har en övning som vi kan använda för att förstå det som hindrar dig, och hur du möjligen kan komma förbi hindret. Vill du prova? [Vänta in ett bekräftande svar]"
       },
       {
-        "title": "Teknik / Obs",
-        "intro": "För att få steg 6 nedan bra måste facilitatorn sammanfatta det som har sagts. Anteckna löpande det som sägs."
+        "title": "Teknik/OBS",
+        "intro": "För att få steg 6 nedan bra måste facilitatorn sammanfatta det som har sagts. Anteckningar av det som sägs ska ske."
       },
       {
         "title": "Process",
+        "startNumber": 1,
         "steps": [
-          "Så du har ett val framför dig. På den ena sidan tar du en risk; på den andra sidan är risken att du stannar kvar.",
-          "Vad är risken om du _____? [Börja med det riskfyllda, okända valet, med precis hans ordval från anteckningarna. Lyssna på hans svar. Om han har flera svar, lyssna efter det som känns \"saftigast\", eller be honom välja det som känns lämpligast.]",
-          "Och vad är risken om du _____? [Använd här hans tidigare svar – status quo / att stanna kvar.]\n[Eller fråga:] Vad kunde hända om du _____? Vad kunde bli konsekvensen om du _____? Vad skulle du behöva avstå från om du _____?\n[Borra nedåt – fortsätt ställa frågor baserade på hans senaste svar tills han hittar \"grunden/botten\", den underliggande sanningen. Håll utkik efter ett \"sanningens ögonblick\" i hans ansikte, hållning eller tonfall.]",
-          "[Sammanfatta:] \"Så på någon nivå tror du att om du [riskfylld handling] kommer du till [botten/underliggande sanning]?\" [Låt honom ev. justera sammanfattningen.]\n[Alternativt: föreslå att han håller den nya insikten i den ena handen.]",
-          "Återgå till det ursprungliga valet: Vad är risken / vad står på spel om du inte _____? [… gör som vanligt. Detta är vanligtvis den kända stigen, status quo.]\nLyssna på hans svar. Fortsätt borra nedåt med samma frågor tills han når botten/underliggande sanning. Det kan vara samma plats som första gången.",
-          "Sammanfatta för honom: \"Så på någon nivå tror du att om du [riskfylld handling] kommer du till [botten/underliggande sanning #1], men om du inte [riskfylld handling #2] kommer du till [botten/underliggande sanning #2]?\" [Låt honom ev. justera sammanfattningen.]\n[Alternativt: föreslå att han håller ut båda händerna och känner den relativa tyngden i respektive hand av de två insikterna.]",
-          "Från denna plats, med denna nyvunna tydlighet – ser du hur begränsande föreställningar bromsar dig [hindrar dig / står i vägen för dig]? Inser du att du har rätten/makten/förmågan att välja? Inser du att du får bestämma själv?",
-          "Vad vill du ha för dig själv, som individ, i framtiden? [Vänta på svaret, hjälp ev. till att göra det tydligt.]",
+          "Så du har ett val framför dig. På det ena sidan du tar en risk, på det andra sidan är risken att du stannar kvar.",
+          "Vad är risken om du _____? [Börjar med den riskfyllt, okänt val, med precis hans ordval från anteckning. Lyssna till hans svar. Om han har flera svar lyssna för den som känns \"saftigast\" eller be honom välja den som känns lämpligast].",
+          "Och vad är risken om du _____? [använd här hans tidigare svar, status quo/stannar kvar]\n[Eller fråga]: vad kunde hända om du _____? Vad kunde vara konsekvens om du _____? Vad skulle du behöva avstår ifrån om du _____?\n[Borra ned - fortsätter att ställa frågor baserade på hans senaste svar - tills han hittar \"grunden/botten\" den underliggande sanningen. Håll koll för en \"sanningens ögonblick signal\" från hans ansikte, hållning eller tonfall.]",
+          "[Sammanfatta]: \"så på någon nivå tror du att om du [riskfyllt handling] du kommer till \"botten/underliggande sanning\"? [låt honom ev justera sammanfattningen]\n[Alternativt: föreslår att han håller den nya insikt i den ena handen].",
+          "Återgår till den ursprunglig val: Vad är risken/vad är på spel om du inte _____? […gör som vanligt. Detta är vanligtvis den kände stigen, status quo]\nLyssna in hans svar. Fortsätter att borra nedåt, använd samma frågor tills han nå botten/underliggande sanning. Det kan vara samma plats som första gången.",
+          "Sammanfatta för honom: \"Så på nån nivå tror du att om du [riskfyllt handling] du kommer till \"botten/underliggande sanning #1\" men om du inte [riskfyllt handling #2] du kommer till \"botten/underliggande sanning #2\"? [låt honom ev justera sammanfattningen]\n[Alternativt: föreslår att han håller ut bägge händer och känner den relativa tyngden i respektive hand av de två insikterna].",
+          "Från denna plats/ med denna nyvunna tydlighet, ser du hur begränsande föreställningar bromsar dig? [hindrar dig? står i väg för dig?] Inser att du har rätt/makt/förmåga att välja? Inser du att du får bestämma själv?",
+          "Vad vill du ha för dig själv, som individ, i framtiden? [väntar för svaret, ev hjälper till att gör det tydligt].",
           "Tack för ditt arbete!"
         ]
       }
@@ -253,20 +263,21 @@
     "tid": "ca 10–30 min.",
     "sections": [
       {
-        "title": "Om syftet",
-        "intro": "Att förstå hur begränsande föreställningar skapas och att hitta och införliva mer funktionella inställningar till livet.\n\nAnvändbar när: en man är fast i begränsande föreställningar, eller upplever starka känslor – i synnerhet rädsla, nedstämdhet eller skam.\n\nÖvningen går ut på att gräva sig ner till de fysiska känslorna i kroppen. (Den som arbetar behöver alltid godkänna att tidigare minnen förs upp till ytan.)"
+        "title": "Syfte",
+        "intro": "Att förstå hur begränsande föreställningar skapas och att hitta och införliva mer funktionella inställningar till livet.\n\nAnvändbar när:\nEn man är fast i begränsande föreställningar\nEn man upplever starka känslor, i synnerhet rädsla, nedstämdhet eller skam\n\nÖvningen går ut på att gräva sig ner till de fysiska känslorna i kroppen.\n(Den som arbetar behöver alltid godkänna att tidigare minnen förs upp till ytan)"
       },
       {
         "title": "Process",
-        "intro": "Facilitatorn läser upp detta, förutom [text inom hakparenteser].",
+        "intro": "Facilitatorn läser upp detta, förutom [text inom hakparenteser]. **Fet text ska inte läsas upp.**",
+        "startNumber": 1,
         "steps": [
-          "Forma intentionen [för arbetet innan det börjar, genom att fråga]: \"Vad vill du ska hända här?\" [eller] \"Vad vill du få ut av det här arbetet?\" Vilken situation vill du få klarhet i eller bättre förståelse för?",
-          "Kroppslig-känslomässig kontakt\na. Vad är grundhistorien?\nb. Vad är det som pågår inom dig?\nc. Stäng ögonen och andas in – ta ett djupt andetag.\nd. Vad känner du? [Lyssna efter en PRIMÄR KÄNSLA: arg, ledsen, rädd, glad, skamsen.]\ne. Hur känns det i kroppen? [Plats, färg, temperatur, fysisk form/upplevelse.]\n[Lyssna in DEN PRIMÄRA KÄNSLAN. Använd hans exakta ord när du hänvisar till den, t.ex. \"den starka kokande ilskan i bröstet\" eller \"den darrande blå skammen i ryggen\".]",
-          "Besöka ett minne\na. Nu när du känner den [PRIMÄRA KÄNSLAN] – känner du igen den? [Om \"Ja\", gå längre tillbaka i tiden.]\nb. Är detta en bekant känsla? [Om så är fallet, be mannen gå längre tillbaka i tiden.]\nc. Hur gammal var du när du upplevde den här känslan för första gången? Vad kallades du då (ev. smeknamn)? Vem var där? Vad hände? [Ev. facilitera fram ett namn på det YNGRE JAGET – vad vill du kalla dig själv då?]",
-          "Skuggformation – skuggan skapas\na. Tänk på denna tidiga upplevelse: vilka bedömningar eller övertygelser hade ditt [YNGRE JAG, t.ex. sexåriga Fredrik] till följd av situationen?\nb. Vilka övertygelser hade han om världen? [ANTECKNA övertygelsen – används i steg 6.]\nc. Vilka övertygelser hade han om sig själv? [ANTECKNA övertygelsen – används i steg 6.]\n(Gräv djupare för att hitta kärnskuggan: \"Vad ligger bakom denna övertygelse?\")\nd. Är du nu redo att prova med en annan övertygelse?",
-          "Stöd från det vuxna jaget\na. Öppna ögonen. Kom tillbaka till den här tiden, här i det här rummet.\nb. Hur gammal är du nu, i verkligheten?\nc. Bjud nu in en stödjande del av dig själv – den kompetenta, handlingskraftiga, uppskattade och respekterade person som du är nu.\n  • Andas in den här nya energin. Låt den fylla din kropp.\n  • Vad vill du kalla den här delen av dig?\nd. Från den här platsen – vilka observationer har du om ditt [YNGRE JAG]? (Invänta svar.)\n  • Vad känner du nu?",
-          "Självbestämmande (empowerment)\na. Tjänar din tro på att världen är ___ (övertygelsen från 4b) och att du är ___ (övertygelsen från 4c) verkligen dig NU?\nb. Vilka är konsekvenserna om du fortsätter att tro detta?\nc. Vill du ersätta dessa begränsande övertygelser med övertygelser som ökar din känsla av självbestämmande?\nd. (Om ja:) Om de gamla övertygelserna inte passar dig längre – vad kommer i så fall att ersätta dem?\ne. Vad är sant om dig just nu? Vad skulle du kunna göra nu? Vill du skapa en töjning som avspeglar det som är sant om dig just nu (och som anknyter till syftet med processen)?",
-          "Avsluta och välsigna\na. Berätta för dina bröder. Säg det till dig själv! (Se på din bild – video/spegel.)\nb. (Om ni träffas i ett fysiskt rum:) Stå i mitten av cirkeln så att vi kan hedra dig för ditt arbete. (Video/virtuellt/Zoom: titta in i skärmen och se alla dina bröder hedra dig!)"
+          "**Forma intentionen** [för arbetet innan det börjar genom att fråga]: \"Vad vill du ska hända här?\" [eller] \"Vad vill du få ut av det här arbetet?\" Vilken situation vill du få klarhet i eller få bättre förståelse för?",
+          "**Kroppslig-känslomässig kontakt**\na. Vad är grundhistorien?\nb. Vad är det som pågår inom dig?\nc. Stäng dina ögon och andas in - ta ett djupt andetag.\nd. Vad känner du? [Lyssna efter en PRIMÄR KÄNSLA: arg, ledsen, rädd, glad, skamsen]\ne. Hur känns det i kroppen? [Plats, färg, temperatur, fysisk form/upplevelse]\nLyssna in [DEN PRIMÄRA KÄNSLAN]. Använd hens exakta ord när du hänvisar till den PRIMÄRA KÄNSLAN, dvs. \"den starka kokande ilskan i bröstet\" eller \"den darrande blå skammen i ryggen\".",
+          "**Besöka ett minne**\na. Nu när du känner den [PRIMÄRA KÄNSLAN], känner du igen den? [Om \"Ja\" gå längre tillbaka i tiden].\nb. Är detta en bekant känsla? [Om så är fallet, be mannen att gå längre tillbaka i tiden]\nc. Hur gammal var du när du upplevde den här känslan för första gången? Vad kallades du då (ev smeknamn)? Vem var där? Vad hände? [ev facilitera fram ett namn på det YNGRE JAGET vill du kallar dig själv då]",
+          "**Skuggformation – Skuggan skapas**\na. Tänk på denna tidiga upplevelse; vilka bedömningar eller övertygelser hade ditt [YNGRE JAG, t.ex. sexåriga Fredrik] till följd av situationen?\nb. Vilka övertygelser hade han om världen? ANTECKNA övertygelsen för 6a o d\nc. Vilka övertygelser hade han om sig själv? ANTECKNA övertygelsen för 6a o d\n(Gräv djupare för att hitta kärnskuggan: \"Vad ligger bakom denna övertygelse?\")\nd. Är du nu redo att prova med en annan övertygelse?",
+          "**Stöd från det vuxna jaget**\na. Öppna ögonen. Kom tillbaka till den här tiden, här i det här rummet.\nb. Hur gammal är du nu, i verkligheten?\nc. Bjud nu in en stödjande del av dig själv. Den kompetenta, handlingskraftiga, uppskattade och respekterade person som du är nu\n• Andas in den här nya energin. Låt den fylla din kropp.\n• Vad vill du kalla den här delen av dig?\nd. Från den här platsen, vilka observationer har du om ditt [YNGRE JAG]? **(inväntar svar)**\n• Vad känner du nu?",
+          "**Självbestämmande** (empowerment)\na. Tjänar din tro på att världen är (övertygelsen 4b) och att du är (övertygelsen 4c) verkligen dig NU?\nb. Vilka är konsekvenserna om du fortsätter att tro detta?\nc. Vill du ersätta dessa begränsande övertygelser med övertygelser som ökar din känsla av självbestämmande?\nd. (Om ja) Om (de gamla övertygelsen) inte passar dig längre, vad kommer i så fall att ersätta den?\ne. Vad är sant om dig just nu? Vad skulle du kunna göra nu? Vill du skapa en töjning som avspeglar det som är sant om dig just nu (som anknyttar till syftet med processen)?",
+          "**Avsluta och välsigna**\na. Berätta för dina bröder. Säg det till dig själv! (se på din bild (video/spegel))\nb. (OM ni träffas i ett fysisk rum) Stå i mitten av cirkeln så att vi kan hedra dig för ditt arbete. (video/Virtuellt/Zoom - titta in i skärmen och ser alla dina bröder hedrar dig!)."
         ]
       }
     ]
@@ -277,11 +288,11 @@
     "syfte": "Att öva på att ge feedback på ett respektfullt sätt, både \"positiv\" och \"negativ\". Det är också en möjlighet för dig att få en bild av hur andra ser på dig, i de allra flesta fall utifrån den man som har varit med på utbildningen – den man som du är NU.",
     "anvandbarNar": "",
     "kommentar": "Denna övning avslutar integrationsutbildningen.",
-    "tid": "ca 5–10 min påfart, sedan ca 5–6 min per man. (0,5 min egen mörk föreställning + 1,5 min feedback på den; 0,5 min egen gyllene föreställning + 3 min feedback på den = 5–6 min/man. => ca 66 min + 5 min intro/modellering för 12 man.)",
+    "tid": "ca 5-10 min påfart, sedan ca 5-6 min per man. (0,5 min egen mörk föreställning + 1,5 min feedback på den mörka föreställningen; 0,5 min egen gyllene föreställning + 3 min feedback på gyllene föreställning = 5-6 min/man. => 66 min + 5 min intro (=modellering) för 12 man.)",
     "sections": [
       {
-        "title": "Syfte och intro (läses upp)",
-        "intro": "Att öva på att ge feedback på ett respektfullt sätt, både \"positiv\" och \"negativ\".\n\nDet är också en möjlighet för dig att få en bild av hur andra ser på dig (delvis som projektioner av sig själva), i de allra flesta fall utifrån den man som har varit med på utbildningen – den man som du är NU.\n\nDenna övning avslutar integrationsutbildningen."
+        "title": "Syfte/Intro - ska läsas",
+        "intro": "Att öva på att ge feedback på ett respektfullt sätt, både \"positiv\" och \"negativ\".\nDet är också en möjlighet för dig att få en bild av hur andra ser på dig (delvis som projektioner av sig själva), i de allra flesta fall utifrån den man som har varit med på utbildningen - den man som du är NU.\nDenna övning avslutar integrationsutbildningen."
       },
       {
         "title": "Förberedelse",
@@ -291,21 +302,21 @@
         "title": "Instruktion",
         "intro": "Beskriv processen nedan så att alla har förstått.",
         "steps": [
-          "Mannen berättar vad hans mörka föreställningar är under en halv minut. Han kan säga: \"Det jag vill arbeta vidare med i mitt liv är …\"",
-          "Efter cirka en halv minut växlar vi så att gruppen ger honom feedback. Han frågar: \"Vad ser ni att jag skulle kunna jobba med?\" Var och en i gruppen (som har något att säga) ser honom i ögonen och ger feedback i form av: \"Jag tror du skulle kunna ha glädje av att arbeta med …\"",
-          "Obs: vi säger inte att han \"borde jobba med\", \"behöver jobba med\" eller liknande formuleringar. Facilitatorn avbryter sådana formuleringar och ber mannen som pratar att formulera om sig enligt ovan, eller använda ett \"jag-uttalande\". Efter maximalt 1,5 minuter avslutas feedbacken.",
-          "Mannen byter nu till att beskriva sina gyllene föreställningar och säger: \"Detta är mina styrkor …, och gåvor som jag har med mig till gruppen …\" Efter en halv minut säger han: \"Vad ser ni att mina styrkor och gåvor är?\"",
-          "Var och en som har något att säga ger honom feedback under 3 minuter i form av: \"Jag ser din styrka …\" eller \"En gåva du bidrar med i gruppen är …\""
+          "Mannen berättar vad hans mörka föreställningar är under en halv minut. Han kan säga: \"**Det jag vill arbeta vidare med i mitt liv är ...**\"",
+          "Efter en minut växlar vi så att gruppen ger honom feedback. Han frågar: \"**Vad ser ni att jag skulle kunna jobba med?**\" Var och en i gruppen (som har något att säga) ser honom i ögonen och ger honom feedback i form av: **\"Jag tror du skulle kunna ha glädje av att arbeta med ...\"**",
+          "Obs att vi inte säger att han \"borde jobba med\" \"behöver jobba med\" eller liknande formuleringar. Facilitatorn avbryter sådana formuleringar och ber den man som pratar att formulera om sig enligt ovan eller använda ett \"jag-uttalande\". Efter maximalt 1,5 minuter avslutas feedbacken.",
+          "Mannen byter nu till att beskriva sina gyllene föreställningar och säger nu: **\"Detta är mina styrkor ..., och gåvor som jag har med mig till gruppen ...\"** Efter en halv minut säger han: **\"Vad ser ni att mina styrkor och gåvor är?\"**",
+          "Var och en som har något att säga ger honom feedback under 3 minuter i form av: **\"Jag ser din styrka ...\"** eller **\"En gåva du bidrar med i gruppen är ...\"**"
         ],
-        "note": "Det som ska skrivas in i chatten – \"sufflering\" för mannen som är kung och hans rådgivare – kan förberedas separat."
+        "note": "Det som ska skrivas in i chatten - \"sufflering\" för han som är kung och hans rådgivare - finns till höger."
       },
       {
         "title": "Börja övningen",
-        "intro": "Innan första mannen börjar, förklara att han kan be någon att anteckna den feedback han får – och att det är upp till honom att be om detta.\n\nLåt var och en göra övningen.\n\nÖvningen kan avslutas genom att även kursledarna ges \"deltagarstatus\" och får sitta var sin runda. Avsluta genom att låta kursledarna \"släppa sina roller\" om detta är sista övningen på kursen."
+        "intro": "Innan första mannen börjar, förklara att han kan be någon att anteckna den feedback han får, och att det är upp till honom att be om detta.\n\nLåt var och en göra övningen.\nÖvningen kan avslutas genom att även kursledarna ges \"deltagarstatus\" och får sitta var sin runda. Avsluta genom att låta kursledarna \"släppa sina roller\" om detta är sista övningen på kursen."
       },
       {
         "title": "Avslutning och diskussion",
-        "intro": "Avsluta med en öppen diskussion där de som vill får dela: \"Hur var det här?\" (att föras in i hotseat)."
+        "intro": "Avsluta med en öppen diskussion där de som vill får dela: \"Hur var det här?\"\n\n**(att föras in i hotseat)**"
       }
     ]
   }

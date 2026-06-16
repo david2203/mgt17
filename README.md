@@ -64,6 +64,23 @@ Ansvarsområden kan tilldelas 1, 2 eller 3 personer (eller fler) – lägg bara 
 
 - Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS.
 - Inloggning via `middleware.ts` + signerad kaka (`lib/auth.ts`).
-- Dataåtkomst i `lib/data.ts`; admin-sparning via server action i `lib/actions.ts` som skriver tillbaka till `data/responsibilities.json`.
+- Statiskt innehåll (medlemmar, processer, mötesstruktur, arbetsrunda, riktlinjer) bundlas in från `data/*.json`.
+- Det enda som ändras via admin – ansvarsområdena – lagras:
+  - **lokalt** i `data/responsibilities.json`, och
+  - **i produktion** i Upstash Redis (eftersom serverless-filsystem är skrivskyddat).
 
-> Eftersom admin skriver till JSON-filen behöver appen köras i en miljö med skrivrättigheter till `data/` (lokalt, eller en server/VPS – inte en helt statisk/serverless-hosting där filsystemet är skrivskyddat).
+## Driftsättning på Vercel
+
+1. Lägg projektet i ett Git-repo (GitHub/GitLab) och importera det på [vercel.com](https://vercel.com). Vercel känner igen Next.js automatiskt.
+2. **Lägg till en Redis-databas** (för att admin-sparningar ska bli kvar): i Vercel-projektet → fliken **Storage** → **Marketplace** → **Upstash → Redis** → skapa och koppla till projektet. Det sätter automatiskt `UPSTASH_REDIS_REST_URL` och `UPSTASH_REDIS_REST_TOKEN`.
+3. **Lägg till miljövariabler** under Settings → Environment Variables:
+   - `SITE_PASSWORD` – medlemslösenordet
+   - `ADMIN_PASSWORD` – adminlösenordet
+   - `AUTH_SECRET` – en lång slumpmässig sträng (`openssl rand -hex 32`)
+4. Deploya. Sidan ligger sedan på `https://<projekt>.vercel.app`.
+
+> Utan Redis fungerar sidan på Vercel men **admin-ändringar sparas inte** (de återställs vid omstart/deploy). Med Redis sparas de korrekt.
+>
+> När Redis är tomt (första gången) används innehållet i `data/responsibilities.json` som utgångsläge. Därefter är Redis källan – vill du nollställa kan du tömma nyckeln `mansgrupp:responsibilities` i Upstash.
+
+Lokalt behövs ingen Redis – då används JSON-filen automatiskt.

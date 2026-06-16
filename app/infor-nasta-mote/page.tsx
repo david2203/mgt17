@@ -3,7 +3,7 @@ import BackLink from "@/components/BackLink";
 import PageHeading from "@/components/PageHeading";
 import { cookies } from "next/headers";
 import { getMembers, getResponsibilities } from "@/lib/data";
-import { formatSwedishDate } from "@/lib/format";
+import { formatMeetingDate } from "@/lib/format";
 import { AUTH_COOKIE, verifyToken } from "@/lib/auth";
 import {
   buildMembersMailto,
@@ -35,7 +35,7 @@ export default async function NextMeetingPage() {
         title="Inför nästa möte"
         intro={
           responsibilities.nextMeetingDate
-            ? `Nästa möte: ${formatSwedishDate(responsibilities.nextMeetingDate)}`
+            ? `Nästa möte: ${formatMeetingDate(responsibilities.nextMeetingDate)}`
             : undefined
         }
       />
@@ -52,11 +52,6 @@ export default async function NextMeetingPage() {
           <CopyTableButton
             header={TABLE_HEADER}
             rows={buildAssignmentRows(members, responsibilities)}
-            caption={
-              responsibilities.nextMeetingDate
-                ? `Ansvarsområden inför nästa möte ${responsibilities.nextMeetingDate}`
-                : "Ansvarsområden inför nästa möte"
-            }
           />
         </div>
       )}

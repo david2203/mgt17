@@ -1,7 +1,6 @@
 "use server";
 
 import { revalidatePath } from "next/cache";
-import { redirect } from "next/navigation";
 import { getResponsibilities, saveResponsibilities } from "./data";
 
 export async function updateResponsibilities(formData: FormData) {
@@ -27,7 +26,7 @@ export async function updateResponsibilities(formData: FormData) {
     areas,
   });
 
+  // Revalidera bara medlemssidan. Vi revaliderar INTE /admin, så att
+  // adminformulärets klient-state (väljarna) inte remountas/nollställs.
   revalidatePath("/infor-nasta-mote");
-  revalidatePath("/admin");
-  redirect("/admin?sparat=1");
 }

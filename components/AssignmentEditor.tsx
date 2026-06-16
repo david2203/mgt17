@@ -8,9 +8,11 @@ const ROLES = ["Initierar", "Tillsammans med"];
 export default function AssignmentEditor({
   members,
   areas,
+  onDirty,
 }: {
   members: Member[];
   areas: ResponsibilityArea[];
+  onDirty?: () => void;
 }) {
   // För varje område: [initierare, med] som member-id eller "".
   function buildInitial(): Record<string, string[]> {
@@ -35,11 +37,13 @@ export default function AssignmentEditor({
       next[slot] = value;
       return { ...prev, [areaId]: next };
     });
+    onDirty?.();
   }
 
   // Återställ till senast sparade tilldelning (ångra ändringar).
   function reset() {
     setSel(buildInitial());
+    onDirty?.();
   }
 
   // Töm alla val.
@@ -47,6 +51,7 @@ export default function AssignmentEditor({
     const empty: Record<string, string[]> = {};
     for (const a of areas) empty[a.id] = ["", ""];
     setSel(empty);
+    onDirty?.();
   }
 
   return (

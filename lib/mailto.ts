@@ -1,5 +1,5 @@
 import type { Member, Responsibilities } from "./types";
-import { formatSwedishDate } from "./format";
+import { formatMeetingDate } from "./format";
 
 export const TABLE_HEADER = ["Initierar", "…med", "Ansvarsområde", "Tidsåtgång"];
 
@@ -26,7 +26,7 @@ export function buildMembersMailto(
     .map((m) => m.email)
     .filter((e) => e && e.includes("@"));
 
-  const dateText = r.nextMeetingDate ? formatSwedishDate(r.nextMeetingDate) : "";
+  const dateText = r.nextMeetingDate ? formatMeetingDate(r.nextMeetingDate) : "";
 
   const lines: string[] = [];
   lines.push("Hej!");
